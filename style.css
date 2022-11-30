@@ -1,11 +1,11 @@
 html, body {
   height: 100%;
   width: 100%;
-  font-family: 'Slabo 27px', serif;
+  font-family: '';
 }
 
 .header {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Verdana 27px';
   display: flex;
   justify-content: space-around;
   color: #0f65ef;
